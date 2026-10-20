@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1a2b"/>
+      <stop offset="55%" stop-color="#123552"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="45%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="980" cy="120" r="180" fill="#e11d48" opacity="0.18"/>
+  <circle cx="160" cy="520" r="220" fill="#38bdf8" opacity="0.12"/>
+  <text x="80" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="42" fill="#38bdf8" letter-spacing="6">PROTEST ROOM</text>
+  <text x="80" y="280" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="700" fill="url(#title)">Sailing Game</text>
+  <text x="80" y="360" font-family="Segoe UI, Arial, sans-serif" font-size="36" fill="#fde68a">Hail → Flag → File → Face the Jury</text>
+  <text x="80" y="440" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#8aa0b8">60–90s free browser stub · protest procedure quiz</text>
+  <rect x="80" y="500" width="280" height="64" rx="32" fill="#e11d48"/>
+  <text x="220" y="542" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#fff">Play now</text>
+  <text x="1080" y="560" text-anchor="end" font-size="64">🚩</text>
+</svg>

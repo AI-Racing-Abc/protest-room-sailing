@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://protest-room-sailing.pages.dev/sitemap.xml
